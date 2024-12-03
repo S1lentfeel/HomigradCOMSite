@@ -1,0 +1,516 @@
+﻿<script>lang="en"</script>
+<script> localize = JSON.parse(`{"homigrad_title":"Homigrad - This gamemode for Garry's mod","homigrad_subtitle":"Many minigames on one server!","homigrad_servers":"Servers","text_rules":"Rules","text_ierarhy":"Hierarchy","text_tableroles":"Table roles","text_usefullinks":"Useful links","text_join":"Join","text_join_discord":"Join our community!","text_us_media":"Our social networks","text_us_forum":"Our forum","https://tiktok_link/":"https://www.tiktok.com/@homigradeng","discord_iframe":"https://discord.com/widget?id=1274692453093347368&theme=dark","https://discord_link/":"https://discord.gg/5777D4K386"}`) </script><html>
+    <meta charset="UTF-8">
+    <head>
+        <link rel="stylesheet" href="resource/main.css">
+        <link rel="stylesheet" href="resource/main_servers.css">
+        <link rel="stylesheet" href="resource/icons.css">
+        <link rel="icon" href="resource/fav.ico">
+
+        <meta property="og:site_name" content="Homigrad - International community, servers in Garry's mod!">
+        <meta property="og:title" content="Homigrad - International community, servers in Garry's mod!">
+        <meta property="og:image" content="https://homigrad.com/resource/fav.ico">
+        <meta name="description" content="Homigrad - This gamemode for Garry's mod, many minigames on one server!">
+
+        <title>Homigrad</title>
+    </head>
+    
+    <header>
+        <div style="flex: 0.25;"></div>
+        <div style="flex: 1;">
+            <div class="icon"></div>
+            <p><a class="light" href="index.htm">Homigrad</a></p>
+
+            <ul>
+                <!--<li><a href="wiki">Википедия</a></li>-->
+                <li><a class="light" href="rules.html">text_rules</a></li>
+                <li><a class="light" href="tos.html">TOS</a></li>
+                <li><a class="light" href="document/d/1eyBp1ehKCOK35H9mfAIiLtXtXp4MZk5OAbrJHX8jpXw/edit.html?usp=sharing">text_ierarhy</a></li>
+                <li><a class="light" href="spreadsheets/d/1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks/edit.html?usp=sharing">text_tableroles</a></li>
+                <li><select id="language" style="
+                    width: 50px;
+                    height: 50px;
+                "></select></li>
+            </ul>
+        </div>
+
+        <div id="lang-switch" style="flex: 0.25;">
+    </div></header>
+
+    <body>
+        <div style="
+        height: 720px;
+        width: 100%;
+        overflow: hidden;
+        ">
+            <div style="
+            overflow: hidden;
+            position: relative;
+            width: 100%;
+            height: 100%;
+            opacity: 0.5;
+            background-color: black;
+            ">
+                <video pip="false" autoplay="" muted="" loop="" playsinline="" style="
+                width: 1980px;
+                height: 1280px;
+                filter: blur(5px);
+                position: relative;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%,-50%);
+                ">
+                <source src="resource/promo.webm" type="video/mp4">
+                </video>
+            </div>
+                <div style="
+                position: relative;
+                width: 75%;
+                height: 75%;
+                top: -87.5%;
+                left: 12.5%;
+                ">
+                    <h1 style="font-size: 5em;">homigrad_title</h1>
+                    <p style="font-size: 2em; padding-top: 1em;">homigrad_subtitle</p>
+                    <p style="font-size: 4em; padding-top: 1em; bottom: 0; position: absolute; text-align: center; width: 100%;">homigrad_servers</p>
+                </div>
+            </div>
+        
+
+        <div style="
+        height: 720px;
+        width: 100%;
+        padding-top: 2em;
+        display: flex-inline;
+        ">
+            <div style="
+            width: 90%;
+            height: 100%;
+            left: 5%;
+            position: relative;
+            display: flex;
+            ">
+                <div class="server" style="
+                width: 80%;
+
+                height: 100%;
+                right: 0;
+                order: 2;
+                margin-left: 30px;
+                display: block;
+                padding: 20px;
+                box-sizing: border-box;
+                ">
+                    <div style="
+                    height: 100%;
+                    width: 100%;
+                    background-color: rgb(18,18,18);
+                    outline: 1px solid rgb(15,15,15);
+                    border-radius: 4px;
+                    padding: 8px;
+                    padding-top: 12px;
+                    box-sizing: border-box;
+                    display: flex;
+                    flex-direction: column;
+                    ">
+                        <div style="text-align: left; margin-left: 5px; height: 3em; display: inline-flex; width: 100%;">
+                            <div style="flex: 1">
+                                <p style="line-height: 25px; font-size: 20px;" id="servername">Name</p>
+                                <p style="line-height: 15px; font-size: 10px; vertical-align: top; margin-left: 5px;" id="serverip">ip</p>
+                            </div>
+                            <div style='
+                            width: 3em;
+                            height: 3em;
+
+                            background-size: 16px;
+                            background-repeat: no-repeat;
+                            background-position: center center;
+                            background-image: url("resource/loading.png");
+                            
+                            ' id="serverflag"></div>
+                        </div>
+
+                        <table style="width: 100%; height: 100%; max-height: 100%; display: flex; flex-direction: column; overflow: hidden;
+                        border-bottom: 1px solid rgb(25,25,25);
+                        border-top: 1px solid rgb(25,25,25);
+                        ">
+                            <thead style="display: block;">
+                                <tr>
+                                    <td>Name</td>
+                                    <th>SteamID</th>
+                                    <th style="flex: 0.5;">Group</th>
+                                    <th style="flex: 0.25;">Ping</th>
+                                </tr>
+                            </thead>
+                            <tbody id="players" style="
+                            height: 100%;
+                            overflow-y: overlay;
+                            overflow-x: hidden;
+                            "></tbody>
+                        </table>
+
+                        <div style="
+                        width: 100%;
+                        height: 4em;
+                        display: flex-inline;
+                        ">
+                            <button style="
+                            display: block;
+                            width: 100%;
+                            height: 100%;
+                            position: relative;
+                            margin: 4px;
+                            " class="server"><a id="button_join" style="width: 100%; height: 100%; display: block; display: flex; justify-content: center; align-items: center;">text_join</a></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="server" style="
+                width: 60%;
+                padding: 30px;
+                ">
+                    <table style="
+                    height: 100%;
+                    width: 100%;
+                    background-color: rgb(18,18,18);
+                    outline: 1px solid rgb(15,15,15);
+                    border-radius: 4px;
+                    padding: 8px;
+                    box-sizing: border-box;
+                    display: block;
+                    ">
+                        <thead style="display: block;">
+                            <tr>
+                                <td style="
+                                flex: 0 0 auto;
+                                width: 30px;
+                                height: 30px;
+                                "><a style="margin-left: 10px;">Location</a></td>
+                                <th>Name</th>
+                                <th style="flex: 0.5;">Map</th>
+                                <th style="flex: 0 0 auto; width: 6em;">Players</th>
+                                <th style="
+                                flex: 0 0 auto;
+                                width: 30px;
+                                height: 30px;
+                                ">
+                                <button style="
+                                width: 100%;
+                                height: 100%;
+                                background-size: 18px;
+                                background-repeat: no-repeat;
+                                background-position: center center;
+                                background-image: url('resource/refresh.png');" id="refresh_servers"></button>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody id="servers" style="display: block; border-top: 1px solid rgb(25,25,25);"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <p style="color: white; text-align: center; font-size: 4em; padding-top: 0.5em; padding-bottom: 0.5em; background-color: var(--bg-color);">text_us_forum</p>
+
+        <div style="
+            width: 100%;
+            height: 900px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        ">
+            <div style="
+                width: 100%;
+                height: 900px;
+
+                background-image: url('resource/discord_background.png');
+                background-position: center;
+                background-size: cover;
+                filter: blur(5px);
+                position: absolute;
+                z-index: -10;
+                opacity: 0.5;
+            "></div>
+
+            <h1 style="
+                width: 75%;
+                left: 12.5%;
+                position: relative;
+
+                font-size: 4em;
+                text-align: center;
+                margin-top: 1em;
+                margin-bottom: 1em;
+            ">text_join_discord</h1>
+
+            <div style="
+                width: 75%;
+                left: 12.5%;
+                height: 100%;
+                position: relative;
+                display: flex;
+                justify-content: center;
+                margin-bottom: 4em;
+            ">
+                <iframe id="discord" style="width: 50%; min-width: 500px; height: 100%; position: relative;" src="" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+            </div>
+
+            <a class="light" style="
+                width: 75%;
+                left: 12.5%;
+                position: relative;
+                font-size: 4em;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                margin-bottom: 1em;
+            " href="https://discord_link/">text_join</a>
+        </div>
+
+        <p style="color: white; text-align: center; font-size: 4em; padding-top: 0.5em; padding-bottom: 0.5em; background-color: var(--bg-color);">text_us_media</p>
+
+        <div style="
+            width: 100%;
+            height: 300px;
+            display: flex;
+            flex-direction: row;
+            
+            justify-content: center;
+            align-items: center;
+
+            font-size: 4em;
+            text-align: center;
+        ">
+            <a class="light hover centertext" style="flex: 1; height: 100%;" href="https://tiktok_link/">TikTok</a>
+            <a class="light hover centertext" style="flex: 1; height: 100%;" href="%40homigrad.html">YouTube</a>
+        </div>
+    </body>
+
+    <footer style="
+    height: 50px;
+    ">
+        <p>by шарик</p>
+    </footer>
+
+    <script>
+        let print = console.log
+
+        let discord = document.getElementById("discord")
+        discord.src = localize.discord_iframe
+
+        function timeout(ms) {return new Promise(resolve => setTimeout(resolve,ms))}
+
+        async function getFetch(path) {
+            try {
+                let req = new Request("https://" + location.host + "/" + path)
+                let res = await fetch(req)
+
+                return await res.json()
+            }
+            catch {
+                await timeout(4000)
+                
+                return await getFetch(path) 
+            }
+        }
+
+        let serversList = document.getElementById("servers")
+        let servername = document.getElementById("servername")
+        let serverip = document.getElementById("serverip")
+        let serverflag = document.getElementById("serverflag")
+        let players = document.getElementById("players")
+        let buttonJoin = document.getElementById("button_join")
+
+        let removeAll = async (parent) => {
+            for (let child of parent.children) {parent.removeChild(child)}
+
+            if (parent.children.length != 0) {return removeAll(parent)}//долбаёбы ебаные блядь.
+
+            return true
+        }
+
+        async function showServerInfo(info) {
+            servername.innerHTML = info.name
+            serverip.innerHTML = info.ip
+            serverflag.style.backgroundImage = 'url("/resource/flags16/' + (info.location != "" && info.location || info.lang) + '.png")'
+
+            await removeAll(players)
+
+            for (ply of info.players) {
+                let tr = document.createElement("tr")
+                players.appendChild(tr)
+                tr.classList.add("li")
+
+                let name = document.createElement("th")
+                tr.appendChild(name)
+                name.innerHTML = ply.name
+
+                let steamid = document.createElement("td")
+                tr.appendChild(steamid)
+                steamid.innerHTML = ply.steamid
+
+                let group = document.createElement("td")
+                tr.appendChild(group)
+                group.style = "flex: 0.5;"
+                group.innerHTML = ply.group
+
+                let ping = document.createElement("td")
+                tr.appendChild(ping)
+                ping.style = "flex: 0.25;"
+                ping.innerHTML = ply.ping
+            }
+
+            buttonJoin.href = "steam://connect/" + info.ip
+        }
+
+        async function updateCountServers() {
+            let showFirstInfo
+
+            let servers = await getFetch("status/count")
+
+            let newServers = {}
+            for (let id in servers) {newServers[servers[id]] = {}}
+            servers = newServers
+
+            await removeAll(serversList)
+            
+            async function build() {
+                await removeAll(serversList)
+                
+                let list = []
+
+                for (id in servers) {
+                    let server = servers[id]
+                    
+                    if (server.info) {list.push(server)}
+                }
+
+                list.sort((a,b) => a.name > b.name)
+                
+                for (server of list) {
+                    let info = server.info
+
+                    let tr = document.createElement("button")
+                    serversList.appendChild(tr)
+                    tr.classList.add("li")
+
+                    tr.onclick = () => showServerInfo(info)
+
+                    let flag = document.createElement("div")
+                    tr.appendChild(flag)
+                    flag.style = `
+                        width: 30px;
+                        height: 30px;
+
+                        background-size: 16px;
+                        background-repeat: no-repeat;
+                        background-position: center center;
+                        background-image: url("/resource/loading.png");
+                    `
+                    flag.style.backgroundImage = 'url("/resource/flags16/' + (info.location != "" && info.location || info.lang) + '.png")'
+
+                    let name = document.createElement("th")
+                    tr.appendChild(name)
+                    name.style = "text-align: left;"
+                    name.innerHTML = info.name
+ 
+                    let map = document.createElement("td")
+                    tr.appendChild(map)
+                    map.style = "text-align: center; flex: 0.5;"
+                    map.innerHTML = info.map
+
+                    let plyCount = document.createElement("td")
+                    tr.appendChild(plyCount)
+                    plyCount.style = "text-align: center; width: 6em; flex: 0 0 auto;"
+                    plyCount.innerHTML = info.players.length + " / " + info.maxPlayers
+
+                    let button = document.createElement("div")
+                    tr.appendChild(button)
+                    button.style = `
+                        width: 30px;
+                        height: 30px;
+
+                        background-size: 18px;
+                    `
+                }
+            }
+
+            let iterations = servers.length
+
+            for (let id in servers) {
+                let server = servers[id]
+                --iterations//нихуясебе
+
+                async function get() {
+                    let info = await getFetch("status/" + id)
+                    server.info = info
+
+                    if (!showFirstInfo) {showFirstInfo = true; showServerInfo(info)}
+                    if (!iterations) {build()}
+                }
+
+                get()
+            }
+        }
+
+        updateCountServers()
+
+        let refresh_servers = document.getElementById("refresh_servers")
+
+        refresh_servers.onclick = async () => {
+            refresh_servers.style.backgroundImage = 'url("/resource/loading.png")'
+            refresh_servers.classList.add("rotate")
+
+            await updateCountServers()
+
+            refresh_servers.style.backgroundImage = 'url("/resource/refresh.png")'
+            refresh_servers.classList.remove("rotate")
+        }
+    </script>
+</html>
+
+    <script>
+        function language_setup(list) {
+            for (element of list) {
+                let encrypt = localize[element.innerHTML]
+                if (encrypt) element.innerHTML = encrypt
+
+                if (element.href) {
+                    let encrypthref = localize[element.href]
+                    if (encrypthref) element.href = encrypthref
+                }
+            }
+        }
+
+        language_setup(document.getElementsByTagName("a"))
+        language_setup(document.getElementsByTagName("p"))
+        language_setup(document.getElementsByTagName("h1"))
+        language_setup(document.getElementsByTagName("button"))
+    </script>
+    
+    <script>
+        let supportLanguages = JSON.parse('{"ru":true,"en":true}')
+
+        let select = document.getElementById("language")
+
+        for (let lang2 in supportLanguages) {
+            let option = document.createElement("option")
+            select.appendChild(option)
+
+            option.value = lang2
+            option.innerHTML = lang2
+
+            if (lang2 == lang) {option.selected = true}
+        }
+
+        setLanguage = (value) => {
+            document.cookie = 'lang=' + event.target.value + '; pt=/'
+        }
+            
+        select.addEventListener("change",(event) => {
+            setLanguage(event.target.value + '; pt=/')
+
+            window.location.reload()
+        })
+    </script>
+    

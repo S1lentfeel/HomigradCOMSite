@@ -1,0 +1,1436 @@
+Uri: https://discord.com/invite/5777D4K386
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\5777D4K386.html
+Content Type: text/html
+
+Uri: https://docs.google.com/document/d/1eyBp1ehKCOK35H9mfAIiLtXtXp4MZk5OAbrJHX8jpXw/edit?usp=sharing
+File Name: C:\Downloaded Web Sites\homigrad.com\document\d\1eyBp1ehKCOK35H9mfAIiLtXtXp4MZk5OAbrJHX8jpXw\edit.html
+Content Type: text/html
+
+Uri: https://docs.google.com/spreadsheets/d/1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks/edit?usp=sharing
+File Name: C:\Downloaded Web Sites\homigrad.com\spreadsheets\d\1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks\edit.html
+Content Type: text/html
+
+Uri: https://homigrad.com/
+File Name: C:\Downloaded Web Sites\homigrad.com\index.htm
+Content Type: text/html
+
+Uri: https://homigrad.com/resource/discord_background.png
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\discord_background.png
+Content Type: discord_background.png
+
+Uri: https://homigrad.com/resource/fav.ico
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\fav.ico
+Content Type: fav.ico
+
+Uri: https://homigrad.com/resource/icons.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\icons.css
+Content Type: icons.css
+
+Uri: https://homigrad.com/resource/loading.png
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\loading.png
+Content Type: loading.png
+
+Uri: https://homigrad.com/resource/main.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\main.css
+Content Type: main.css
+
+Uri: https://homigrad.com/resource/main_servers.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\main_servers.css
+Content Type: main_servers.css
+
+Uri: https://homigrad.com/resource/promo.webm
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\promo.webm
+Content Type: promo.webm
+
+Uri: https://homigrad.com/resource/refresh.png
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\refresh.png
+Content Type: refresh.png
+
+Uri: https://homigrad.com/resource/word.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\word.css
+Content Type: word.css
+
+Uri: https://homigrad.com/rules
+File Name: C:\Downloaded Web Sites\homigrad.com\rules.html
+Content Type: text/html
+
+Uri: https://homigrad.com/tos
+File Name: C:\Downloaded Web Sites\homigrad.com\tos.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/@homigrad
+File Name: C:\Downloaded Web Sites\homigrad.com\@homigrad.html
+Content Type: text/html
+
+lowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-399801471:1733248380180559
+File Name: C:\Downloaded Web Sites\homigrad.com\v3\signin\identifier.html
+Content Type: text/html
+
+Uri: https://accounts.google.com/v3/signin/identifier?continue=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks%2Fedit%3Fusp%3Dsharing&ec=GAZAmwI&followup=https:%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks%2Fedit%3Fusp%3Dsharing&ifkv=AcMMx-fULssPEgJnKKfzGioFbX-mRdJWaC9HPxPwuOJB-HI2ON47QX-lZ90524S1PniJL3RtyfwX&ltmpl=sheets&osid=1&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S957911695:1733248383219246
+File Name: C:\Downloaded Web Sites\homigrad.com\v3\signin\identifier-1.html
+Content Type: text/html
+
+Uri: https://apps.apple.com/us/app/google-docs/id842842640
+File Name: C:\Downloaded Web Sites\homigrad.com\us\app\google-docs\id842842640.html
+Content Type: text/html
+
+Uri: https://chromewebstore.google.com/
+File Name: C:\Downloaded Web Sites\homigrad.com\index-3.htm
+Content Type: text/html
+
+Uri: https://chromewebstore.google.com/collection/by_chrome_extensions
+File Name: C:\Downloaded Web Sites\homigrad.com\collection\by_chrome_extensions.html
+Content Type: text/html
+
+Uri: https://chromewebstore.google.com/detail/диск-google/apdfllckaahabafndbhieahigkjlhalf
+File Name: C:\Downloaded Web Sites\homigrad.com\detail\диск-google\apdfllckaahabafndbhieahigkjlhalf.html
+Content Type: text/html
+
+Uri: https://chromewebstore.google.com/detail/диск-google/apdfllckaahabafndbhieahigkjlhalf/reviews
+File Name: C:\Downloaded Web Sites\homigrad.com\detail\диск-google\apdfllckaahabafndbhieahigkjlhalf\reviews.html
+Content Type: text/html
+
+Uri: https://chromewebstore.google.com/detail/apdfllckaahabafndbhieahigkjlhalf/report
+File Name: C:\Downloaded Web Sites\homigrad.com\detail\apdfllckaahabafndbhieahigkjlhalf\report.html
+Content Type: text/html
+
+Uri: https://cloud.google.com/find-a-partner/?products=Google Workspace&hl=[locale]
+File Name: C:\Downloaded Web Sites\homigrad.com\find-a-partner\index.htm
+Content Type: text/html
+
+Uri: https://developers.google.com/youtube?hl=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\youtube.html
+Content Type: text/html
+
+Uri: https://discord.com/assets/69646.b2bd166e2061e18d82b4.css
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\69646.b2bd166e2061e18d82b4.css
+Content Type: text/css
+
+Uri: https://discord.com/assets/favicon.ico
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://discord.com/assets/sentry.3f832f2334ed5b7cd1c0.js
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\sentry.3f832f2334ed5b7cd1c0.js
+Content Type: text/javascript
+
+Uri: https://discord.com/assets/webMinimal.37efe0169fdc476a5878.js
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\webMinimal.37efe0169fdc476a5878.js
+Content Type: text/javascript
+
+Uri: https://discord.com/invite/5777D4K386
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\5777D4K386.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=cs
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-16.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=el
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-10.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=en-GB
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-4.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=en-US
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-21.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=es-419
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-2.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=es-ES
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-6.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=fi
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-26.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=fr
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-8.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=he
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-24.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=hi
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-23.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=hr
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-12.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=hu
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-18.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=id
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-14.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=it
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-17.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=ko
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-7.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=lt
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-22.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=nl
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-15.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=pl
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-1.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=pt-BR
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-11.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=ro
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-19.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-9.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=th
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-20.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=tr
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-27.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=uk
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-13.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=vi
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-3.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=zh-CN
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-5.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/homigrad-eng?locale=zh-TW
+File Name: C:\Downloaded Web Sites\homigrad.com\invite\homigrad-eng-25.html
+Content Type: text/html
+
+Uri: https://docs.google.com/document/d/1eyBp1ehKCOK35H9mfAIiLtXtXp4MZk5OAbrJHX8jpXw/edit?usp=sharing
+File Name: C:\Downloaded Web Sites\homigrad.com\document\d\1eyBp1ehKCOK35H9mfAIiLtXtXp4MZk5OAbrJHX8jpXw\edit.html
+Content Type: text/html
+
+Uri: https://docs.google.com/spreadsheets/d/1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks/edit?usp=sharing
+File Name: C:\Downloaded Web Sites\homigrad.com\spreadsheets\d\1PhH4BU4CIQCVSjZ6taW6uL1Los2A4SIYqT2rxUUzxks\edit.html
+Content Type: text/html
+
+Uri: https://docs.google.com/static/document/client/css/3548703988-KixCss_ltr.css
+File Name: C:\Downloaded Web Sites\homigrad.com\static\document\client\css\3548703988-KixCss_ltr.css
+Content Type: text/css
+
+Uri: https://docs.google.com/static/document/client/js/3677230286-client_js_prod_kix_core__ru.js
+File Name: C:\Downloaded Web Sites\homigrad.com\static\document\client\js\3677230286-client_js_prod_kix_core__ru.js
+Content Type: text/javascript
+
+Uri: https://docs.google.com/static/spreadsheets2/client/css/1265537086-waffle_k_ltr.css
+File Name: C:\Downloaded Web Sites\homigrad.com\static\spreadsheets2\client\css\1265537086-waffle_k_ltr.css
+Content Type: text/css
+
+Uri: https://docs.google.com/static/spreadsheets2/client/js/1001343420-waffle_js_prod_core__ru.js
+File Name: C:\Downloaded Web Sites\homigrad.com\static\spreadsheets2\client\js\1001343420-waffle_js_prod_core__ru.js
+Content Type: text/javascript
+
+Uri: https://docs.google.com/static/spreadsheets2/client/js/3817743484-waffle_js_prod_ritzmain__ru.js
+File Name: C:\Downloaded Web Sites\homigrad.com\static\spreadsheets2\client\js\3817743484-waffle_js_prod_ritzmain__ru.js
+Content Type: text/javascript
+
+Uri: https://docs.google.com/static/spreadsheets2/client/js/3888568096-waffleloadingprogressbar_core.js
+File Name: C:\Downloaded Web Sites\homigrad.com\static\spreadsheets2\client\js\3888568096-waffleloadingprogressbar_core.js
+Content Type: text/javascript
+
+Uri: https://edu.google.com/workspace-for-education/editions/education-fundamentals/?hl=[locale]
+File Name: C:\Downloaded Web Sites\homigrad.com\workspace-for-education\editions\education-fundamentals\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto_old:wght@300;400;500;700&family=YouTube+Sans:wght@300..900&display=swap
+File Name: C:\Downloaded Web Sites\homigrad.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inconsolata:400,700
+File Name: C:\Downloaded Web Sites\homigrad.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Google+Sans:400,500,700|Google+Sans+Text:400,500,700|Google+Sans+Display:400,500,700|Roboto:400,500,700&display=swap
+File Name: C:\Downloaded Web Sites\homigrad.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/googlematerialicons/v143/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3g.otf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlematerialicons\v143\Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3g.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Io2-BqGpjmscm43kO8Q1HYku74q.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Io2-BqGpjmscm43kO8Q1HYku74q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Io2-BqGpjmscm43kO8Q5nYku74q.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Io2-BqGpjmscm43kO8Q5nYku74q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Io2-BqGpjmscm43kO8QAXEku74q.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Io2-BqGpjmscm43kO8QAXEku74q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Iou-BqGpjmscm43kO8Q1HYku74q.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Iou-BqGpjmscm43kO8Q1HYku74q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Iou-BqGpjmscm43kO8Q5nYku74q.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Iou-BqGpjmscm43kO8Q5nYku74q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Iou-BqGpjmscm43kO8QAXEku74q.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UairENHsxJlGDuGo1OIlL3L2JB80eWHxVA9_Iou-BqGpjmscm43kO8QAXEku74q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMucsih5flDH6MAwhcBUPjYUuA.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMucsih5flDH6MAwhcBUPjYUuA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMucsih5flDH6MAwhRVTPjYUuA.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMucsih5flDH6MAwhRVTPjYUuA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMucsih5flDH6MAwhSdTPjYUuA.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YobMucsih5flDH6MAwhSdTPjYUuA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YodMucsih5flDH6MAwhcBUPjYUuA.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YodMucsih5flDH6MAwhcBUPjYUuA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YodMucsih5flDH6MAwhRVTPjYUuA.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YodMucsih5flDH6MAwhRVTPjYUuA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v29/4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YodMucsih5flDH6MAwhSdTPjYUuA.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v29\4UasrENHsxJlGDuGo1OIlJfC6mGS6vhAK1YodMucsih5flDH6MAwhSdTPjYUuA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QpnQOs5beU3yksanMY0Ehly_KEw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v58\4Ua9rENHsxJlGDuGo1OIlL3L2JB874GPhFI9_IqmuRqGpjeaLi42kO8QpnQOs5beU3yksanMY0Ehly_KEw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrw2IJlhpyw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrw2IJlhpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrwEIJlhpyw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhWdRFD48TE63OOYKtrwEIJlhpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJlhpyw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrw2IJlhpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpyw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesans/v58/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lhpyw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesans\v58\4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrzjJ5lhpyw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesansmono/v15/P5sqzYWFYtnZ_Cg-t0Uq_rfivrdYNY12DDIwjZ6bbqExnDoTKrufYQ.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesansmono\v15\P5sqzYWFYtnZ_Cg-t0Uq_rfivrdYNY12DDIwjZ6bbqExnDoTKrufYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesansmono/v15/P5sqzYWFYtnZ_Cg-t0Uq_rfivrdYNY12DDIwjZ6bbqExnN0UKrufYQ.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesansmono\v15\P5sqzYWFYtnZ_Cg-t0Uq_rfivrdYNY12DDIwjZ6bbqExnN0UKrufYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesansmono/v15/P5sqzYWFYtnZ_Cg-t0Uq_rfivrdYNY12DDIwjZ6bbqExnO8UKrufYQ.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesansmono\v15\P5sqzYWFYtnZ_Cg-t0Uq_rfivrdYNY12DDIwjZ6bbqExnO8UKrufYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesansmono/v15/P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abQe2AVQGrw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesansmono\v15\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abQe2AVQGrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesansmono/v15/P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53wVQGrw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesansmono\v15\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53wVQGrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/googlesansmono/v15/P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abTL3wVQGrw.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\googlesansmono\v15\P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abTL3wVQGrw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\s\i\productlogos\chrome_store\v7\192px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/close/default/24px.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\s\i\short-term\release\googlesymbols\close\default\24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/more_horiz/default/24px.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\s\i\short-term\release\googlesymbols\more_horiz\default\24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/remove/default/24px.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\s\i\short-term\release\googlesymbols\remove\default\24px.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.gstatic.com/s/notocoloremoji/v10/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\notocoloremoji\v10\Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eL.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\productsans\v9\pxiDypQkot1TnFhsFMOfGShVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\roboto\v18\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\roboto\v18\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\roboto\v18\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\roboto\v18\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\roboto\v18\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\homigrad.com\s\roboto\v18\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://homigrad.com/
+File Name: C:\Downloaded Web Sites\homigrad.com\index.htm
+Content Type: text/html
+
+Uri: https://homigrad.com/resource/discord_background.png
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\discord_background.png
+Content Type: discord_background.png
+
+Uri: https://homigrad.com/resource/fav.ico
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\fav.ico
+Content Type: fav.ico
+
+Uri: https://homigrad.com/resource/icons.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\icons.css
+Content Type: icons.css
+
+Uri: https://homigrad.com/resource/loading.png
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\loading.png
+Content Type: loading.png
+
+Uri: https://homigrad.com/resource/main.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\main.css
+Content Type: main.css
+
+Uri: https://homigrad.com/resource/main_servers.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\main_servers.css
+Content Type: main_servers.css
+
+Uri: https://homigrad.com/resource/promo.webm
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\promo.webm
+Content Type: promo.webm
+
+Uri: https://homigrad.com/resource/refresh.png
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\refresh.png
+Content Type: refresh.png
+
+Uri: https://homigrad.com/resource/word.css
+File Name: C:\Downloaded Web Sites\homigrad.com\resource\word.css
+Content Type: word.css
+
+Uri: https://homigrad.com/rules
+File Name: C:\Downloaded Web Sites\homigrad.com\rules.html
+Content Type: text/html
+
+Uri: https://homigrad.com/tos
+File Name: C:\Downloaded Web Sites\homigrad.com\tos.html
+Content Type: text/html
+
+Uri: https://lh3.googleusercontent.com/1xNhDoN_sXZnCwYsMwCJKG4M9R2m5354rT8_PZsFf7j5Qg9DDQoDC61cBCR46PDRlOFn8XVT902ydCa1x3ovtbbHT2_yPe-2Dme8gg=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\1xNhDoN_sXZnCwYsMwCJKG4M9R2m5354rT8_PZsFf7j5Qg9DDQoDC61cBCR46PDRlOFn8XVT902ydCa1x3ovtbbHT2_yPe-2Dme8gg=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/7jP8h_xsSvYVbY4JC_a7XmnmB8aZDlw-gID9wc1CEX2RYTiUqzv3ss6UuSOGAYGa61PZJX5oZs2Yb2oqteME312VoCfZX7FszBF8=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\7jP8h_xsSvYVbY4JC_a7XmnmB8aZDlw-gID9wc1CEX2RYTiUqzv3ss6UuSOGAYGa61PZJX5oZs2Yb2oqteME312VoCfZX7FszBF8=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/9m-97QscHAWla6l0fZwkKp4iKo_rO1y_adRJjex8A_a7sQyQncZnv0Z6vBhGQj-NfeNxcmYa5JddOv4GmIBxQQZDpd_lEc_1SHp7yw
+File Name: C:\Downloaded Web Sites\homigrad.com\9m-97QscHAWla6l0fZwkKp4iKo_rO1y_adRJjex8A_a7sQyQncZnv0Z6vBhGQj-NfeNxcmYa5JddOv4GmIBxQQZDpd_lEc_1SHp7yw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a-/ALV-UjUEi4rkN0i4Y7QxbhURdkSd3t5atcQcTqZUsZHwqkeACIc6NXzy=s48-w48-h48
+File Name: C:\Downloaded Web Sites\homigrad.com\a-\ALV-UjUEi4rkN0i4Y7QxbhURdkSd3t5atcQcTqZUsZHwqkeACIc6NXzy=s48-w48-h48
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a-/ALV-UjUEi4rkN0i4Y7QxbhURdkSd3t5atcQcTqZUsZHwqkeACIc6NXzy=s96-w96-h96
+File Name: C:\Downloaded Web Sites\homigrad.com\a-\ALV-UjUEi4rkN0i4Y7QxbhURdkSd3t5atcQcTqZUsZHwqkeACIc6NXzy=s96-w96-h96
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a-/ALV-UjVwNam2nw8QpS-cYWeVQZiHpkmfk0b1OeZqd4TTlxRlNqpHfg5p=s48-w48-h48
+File Name: C:\Downloaded Web Sites\homigrad.com\a-\ALV-UjVwNam2nw8QpS-cYWeVQZiHpkmfk0b1OeZqd4TTlxRlNqpHfg5p=s48-w48-h48
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/a-/ALV-UjVwNam2nw8QpS-cYWeVQZiHpkmfk0b1OeZqd4TTlxRlNqpHfg5p=s96-w96-h96
+File Name: C:\Downloaded Web Sites\homigrad.com\a-\ALV-UjVwNam2nw8QpS-cYWeVQZiHpkmfk0b1OeZqd4TTlxRlNqpHfg5p=s96-w96-h96
+Content Type: image/jpeg
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocJ5B-N4jRtnLKBmvA28t1kCQMcvXXeoNgBSZEblIe02tAuFG_U=s48-w48-h48
+File Name: C:\Downloaded Web Sites\homigrad.com\a\ACg8ocJ5B-N4jRtnLKBmvA28t1kCQMcvXXeoNgBSZEblIe02tAuFG_U=s48-w48-h48
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/a/ACg8ocJ5B-N4jRtnLKBmvA28t1kCQMcvXXeoNgBSZEblIe02tAuFG_U=s96-w96-h96
+File Name: C:\Downloaded Web Sites\homigrad.com\a\ACg8ocJ5B-N4jRtnLKBmvA28t1kCQMcvXXeoNgBSZEblIe02tAuFG_U=s96-w96-h96
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/bQRb0iH2xRewgdkV2wF-234UL3toL1X7-lH3VX40MvLELn6fzK_fEUmUn_EnkgYbPXQ3-NbnxU1LgEmIbhjzUT43w2goMuchgPzS=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\bQRb0iH2xRewgdkV2wF-234UL3toL1X7-lH3VX40MvLELn6fzK_fEUmUn_EnkgYbPXQ3-NbnxU1LgEmIbhjzUT43w2goMuchgPzS=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/bwDrRvovXO8Z5yAEF5XnRlAzleI1xK3K6oQF6GYqboxrCJT5hZhWac9OBATh3ZgTqI0MnBwOBR9ElwT8FmKBt7cPwVbIDXBkoyG2=e365-pa-nu-rw-w1536
+File Name: C:\Downloaded Web Sites\homigrad.com\bwDrRvovXO8Z5yAEF5XnRlAzleI1xK3K6oQF6GYqboxrCJT5hZhWac9OBATh3ZgTqI0MnBwOBR9ElwT8FmKBt7cPwVbIDXBkoyG2=e365-pa-nu-rw-w1536
+Content Type: image/webp
+
+Uri: https://lh3.googleusercontent.com/c13hA3Flb8lxZ_GCFUh1o3XwsYzDM86W0fHI6sCtFK2ARog2e8Pj4XmxnJyPFga2T5SAaFwtxc9pkNWZ71MqDqOPKwE00QqJXOQ=e365-pa-nu-rw-w720
+File Name: C:\Downloaded Web Sites\homigrad.com\c13hA3Flb8lxZ_GCFUh1o3XwsYzDM86W0fHI6sCtFK2ARog2e8Pj4XmxnJyPFga2T5SAaFwtxc9pkNWZ71MqDqOPKwE00QqJXOQ=e365-pa-nu-rw-w720
+Content Type: image/webp
+
+Uri: https://lh3.googleusercontent.com/cfRkZQYXumfxsczmm2BXotUMykcJ37fkw0ltC4ejd8GmOwewQKrZMX96fuNQdGwdXPdx9mVvcKXgpgDODstqSJ-aiSYZq2M2xG2t=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\cfRkZQYXumfxsczmm2BXotUMykcJ37fkw0ltC4ejd8GmOwewQKrZMX96fuNQdGwdXPdx9mVvcKXgpgDODstqSJ-aiSYZq2M2xG2t=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/fuXWFz4FDJsgQTr5QhGBVDPJz7rf7gwyA3NpN8rkq8dSV7GEb6kDjhLhGzw99H4GdDHe4LqoXDxwG8yrqJQh0pljqy7na2CooU0e=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\fuXWFz4FDJsgQTr5QhGBVDPJz7rf7gwyA3NpN8rkq8dSV7GEb6kDjhLhGzw99H4GdDHe4LqoXDxwG8yrqJQh0pljqy7na2CooU0e=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/ikrjoiB5XmgwPy5hSPUUgj7c8Z83uOLRJAnB9e8fcu5g4RuQbly6yiMlrgcQpQV-UpeKdPm94E2HmQ93Fp_GhmPetuwZ4cQcn8dB=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\ikrjoiB5XmgwPy5hSPUUgj7c8Z83uOLRJAnB9e8fcu5g4RuQbly6yiMlrgcQpQV-UpeKdPm94E2HmQ93Fp_GhmPetuwZ4cQcn8dB=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/J3dBEmTrnscqI-GVlgOZdgw6x07I5IfoFORFymiNtEzQhg2o9WCGRYi-XHJgddZ_msrWJGPAOX2HX70nn4KkQbrwhitrr9mayNE=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\J3dBEmTrnscqI-GVlgOZdgw6x07I5IfoFORFymiNtEzQhg2o9WCGRYi-XHJgddZ_msrWJGPAOX2HX70nn4KkQbrwhitrr9mayNE=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/mIET82-lpsdcVdsF43ymtho6ZiTUtBYu4cpzcrbXZLRyv7xqwPwzX3O-RbSFXeiJAuHlBjt9-pitnjbEHQg4OHcz3mUTMZe--yfn=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\mIET82-lpsdcVdsF43ymtho6ZiTUtBYu4cpzcrbXZLRyv7xqwPwzX3O-RbSFXeiJAuHlBjt9-pitnjbEHQg4OHcz3mUTMZe--yfn=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/mtEGKFD5T88N5_zJhmKxHnpPgiUVteOwlsPsyh6aVGWQgSNHFv9MmdFzTfDbQC9hBTGN6wIhbQg8n-E1wKqcIkvZWNzBXPqwMsy_=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\mtEGKFD5T88N5_zJhmKxHnpPgiUVteOwlsPsyh6aVGWQgSNHFv9MmdFzTfDbQC9hBTGN6wIhbQg8n-E1wKqcIkvZWNzBXPqwMsy_=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/NHAsIz8Vax0VzJqGvJjww_v76yVMXtFSrHX-o9TWZF5nw_Z828lfnsAZh6FbCoQUAJ6MDgA05K6izZ1k0IM5yqWvniki91wNCnbx=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\NHAsIz8Vax0VzJqGvJjww_v76yVMXtFSrHX-o9TWZF5nw_Z828lfnsAZh6FbCoQUAJ6MDgA05K6izZ1k0IM5yqWvniki91wNCnbx=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/nVw0W8dGwwNky_jiDJFpAyMJaT8bmKfNoBQMIi0CMhYfc8WyuXFEDArmRph_zzftqPlThd0Xd-K47YFYiQttyr_EGrRWDNLi_lLq-g=e365-pa-nu-rw-w1416
+File Name: C:\Downloaded Web Sites\homigrad.com\nVw0W8dGwwNky_jiDJFpAyMJaT8bmKfNoBQMIi0CMhYfc8WyuXFEDArmRph_zzftqPlThd0Xd-K47YFYiQttyr_EGrRWDNLi_lLq-g=e365-pa-nu-rw-w1416
+Content Type: image/webp
+
+Uri: https://lh3.googleusercontent.com/sKrTOyTmw188lLu5qslZeGUqkqLVx_Mtih39TMdAlyF0VynsFsPTQYyLWSuFLmWf2ACy_VAGVf-UJ-P7hQBxK5T7atWti_Kazu3lag=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\sKrTOyTmw188lLu5qslZeGUqkqLVx_Mtih39TMdAlyF0VynsFsPTQYyLWSuFLmWf2ACy_VAGVf-UJ-P7hQBxK5T7atWti_Kazu3lag=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/Udi09JKao-xyuSgwmwnYS7yWoGzFg2cKY2f48U8dMRO78pEmEFxTC6b6Fi9eHTlaLGU9EbzVDBEKDfGh7URpS-Dy=s120
+File Name: C:\Downloaded Web Sites\homigrad.com\Udi09JKao-xyuSgwmwnYS7yWoGzFg2cKY2f48U8dMRO78pEmEFxTC6b6Fi9eHTlaLGU9EbzVDBEKDfGh7URpS-Dy=s120
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/Udi09JKao-xyuSgwmwnYS7yWoGzFg2cKY2f48U8dMRO78pEmEFxTC6b6Fi9eHTlaLGU9EbzVDBEKDfGh7URpS-Dy=s60
+File Name: C:\Downloaded Web Sites\homigrad.com\Udi09JKao-xyuSgwmwnYS7yWoGzFg2cKY2f48U8dMRO78pEmEFxTC6b6Fi9eHTlaLGU9EbzVDBEKDfGh7URpS-Dy=s60
+Content Type: image/png
+
+Uri: https://lh3.googleusercontent.com/yJxP3p1AvFy3x1AaxlFtkw9eAtyWFFoHAZnBa67CzOUXoxVuaGSZRDiuWLPB2RTd2scifmPEkCXpTQZjcNR80CKmm-5LJqxvnN5fdg=e365-pa-nu-s0-v0-rw
+File Name: C:\Downloaded Web Sites\homigrad.com\yJxP3p1AvFy3x1AaxlFtkw9eAtyWFFoHAZnBa67CzOUXoxVuaGSZRDiuWLPB2RTd2scifmPEkCXpTQZjcNR80CKmm-5LJqxvnN5fdg=e365-pa-nu-s0-v0-rw
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/chrome/webstore/images/icon_144px.png
+File Name: C:\Downloaded Web Sites\homigrad.com\chrome\webstore\images\icon_144px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/chrome/webstore/images/icon_48px.png
+File Name: C:\Downloaded Web Sites\homigrad.com\chrome\webstore\images\icon_48px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/chrome/webstore/images/icon_96px.png
+File Name: C:\Downloaded Web Sites\homigrad.com\chrome\webstore\images\icon_96px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/chrome/webstore/intl/ru/gallery_tos.html
+File Name: C:\Downloaded Web Sites\homigrad.com\chrome\webstore\intl\ru\gallery_tos.html
+Content Type: text/html
+
+Uri: https://ssl.gstatic.com/docs/common/branding_sprite1.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\branding_sprite1.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/checkboard.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\checkboard.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/d-icons31.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\d-icons31.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/ee-palettes-2.gif
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\ee-palettes-2.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/jfk_sprite186.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\jfk_sprite186.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/loading_animation.gif
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\loading_animation.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite768.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\material_common_sprite768.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite768_blue.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\material_common_sprite768_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite768_gm3_grey_medium.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\material_common_sprite768_gm3_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite768_grey_dark.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\material_common_sprite768_grey_dark.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/material_common_sprite768_grey_medium.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\material_common_sprite768_grey_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/menu_feature_sprite13.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\menu_feature_sprite13.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\mobileweb_sprite1.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/promo/kix_shadow_docs_promo_ltr.gif
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\promo\kix_shadow_docs_promo_ltr.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/common/promo_arrows-0.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\promo_arrows-0.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/promo_close-0.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\promo_close-0.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/common/revisions_sprite1.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\revisions_sprite1.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/common/shortcut_sprite1.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\common\shortcut_sprite1.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/documents/images/dimension-highlighted.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\images\dimension-highlighted.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/documents/images/dimension-unhighlighted.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\images\dimension-unhighlighted.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/documents/images/icons-25.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\images\icons-25.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\images\kix-favicon-2023q4.ico
+Content Type: image/x-icon
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/ess-icons-4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\share\images\ess-icons-4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/spinner-2.gif
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\share\images\spinner-2.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/documents/share/images/sprite-24.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\documents\share\images\sprite-24.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/drawings/images/hsva-sprite-sm.gif
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\drawings\images\hsva-sprite-sm.gif
+Content Type: image/gif
+
+Uri: https://ssl.gstatic.com/docs/drawings/images/hsva-sprite-sm.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\drawings\images\hsva-sprite-sm.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\picker\images\loading_spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/picker/images/loading_spinner_small.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\picker\images\loading_spinner_small.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/docs/presentations/images/icons-8.png
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\presentations\images\icons-8.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/docs/spreadsheets/spreadsheets_2023q4.ico
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\spreadsheets\spreadsheets_2023q4.ico
+Content Type: image/x-icon
+
+Uri: https://ssl.gstatic.com/editor/button-bg.png
+File Name: C:\Downloaded Web Sites\homigrad.com\editor\button-bg.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/editor/editortoolbar.png
+File Name: C:\Downloaded Web Sites\homigrad.com\editor\editortoolbar.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/gb/images/bar/al-icon.png
+File Name: C:\Downloaded Web Sites\homigrad.com\gb\images\bar\al-icon.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/images/icons/material/system/1x/arrow_drop_down_black_24dp.png
+File Name: C:\Downloaded Web Sites\homigrad.com\images\icons\material\system\1x\arrow_drop_down_black_24dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/images/icons/material/system/2x/arrow_drop_down_black_24dp.png
+File Name: C:\Downloaded Web Sites\homigrad.com\images\icons\material\system\2x\arrow_drop_down_black_24dp.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/images/icons/material/system/svg/close_18px.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\images\icons\material\system\svg\close_18px.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/inputtools/images/lens.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\inputtools\images\lens.svg
+Content Type: image/svg+xml
+
+Uri: https://ssl.gstatic.com/inputtools/images/reset.png
+File Name: C:\Downloaded Web Sites\homigrad.com\inputtools\images\reset.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/offline.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\activityindicator\offline.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/activityindicator/offline_16.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\activityindicator\offline_16.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/colorpicker/checkmark.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\colorpicker\checkmark.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/dialog/close-x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\dialog\close-x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/grey-disclosure-arrow-up-down.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\disclosure\grey-disclosure-arrow-up-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/disclosure/small-grey-disclosure-arrow-down.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\disclosure\small-grey-disclosure-arrow-down.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/icons/common/x_8px.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\icons\common\x_8px.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark-partial.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\menu\checkmark-partial.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark-partial_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\menu\checkmark-partial_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\menu\checkmark.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/menu/checkmark_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\menu\checkmark_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/checked-disabled.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\radiobutton\checked-disabled.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/checked.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\radiobutton\checked.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/checked_focused.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\radiobutton\checked_focused.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/unchecked-disabled.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\radiobutton\unchecked-disabled.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/unchecked.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\radiobutton\unchecked.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/radiobutton/unchecked_focused.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\radiobutton\unchecked_focused.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-active4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-active4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-active4_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-active4_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-hover4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-hover4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-hover4_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-hover4_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-lit-active4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-lit-active4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-lit-active4_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-lit-active4_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-lit-hover4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-lit-hover4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-lit-hover4_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-lit-hover4_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-lit4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-lit4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star-lit4_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star-lit4_2x.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star4.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star4.png
+Content Type: image/png
+
+Uri: https://ssl.gstatic.com/ui/v1/star/star4_2x.png
+File Name: C:\Downloaded Web Sites\homigrad.com\ui\v1\star\star4_2x.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/assets_workspace/uploads/7uffzv9dk4sn-7kAnuMn2JYM8SouH9sUO1Y-5decaa2561233114d97a43fceaa78f4f-Docs_Full_Logo.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\assets_workspace\uploads\7uffzv9dk4sn-7kAnuMn2JYM8SouH9sUO1Y-5decaa2561233114d97a43fceaa78f4f-Docs_Full_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://storage.googleapis.com/assets_workspace/uploads/7uffzv9dk4sn-7LhoZoRSU32Sn20yI8213k-92d83d07ba564bddac887d329c3589c2-Vector.svg
+File Name: C:\Downloaded Web Sites\homigrad.com\assets_workspace\uploads\7uffzv9dk4sn-7LhoZoRSU32Sn20yI8213k-92d83d07ba564bddac887d329c3589c2-Vector.svg
+Content Type: image/svg+xml
+
+Uri: https://support.google.com/a/users/?hl=[locale]
+File Name: C:\Downloaded Web Sites\homigrad.com\a\users\index.htm
+Content Type: text/html
+
+Uri: https://support.google.com/chrome_webstore/answer/1047776?hl=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\chrome_webstore\answer\1047776.html
+Content Type: text/html
+
+Uri: https://support.google.com/chrome_webstore?hl=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\chrome_webstore.html
+Content Type: text/html
+
+Uri: https://support.google.com/docs/answer/10381817?hl=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\answer\10381817.html
+Content Type: text/html
+
+Uri: https://support.google.com/docs/answer/10519333?hl=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\docs\answer\10519333.html
+Content Type: text/html
+
+Uri: https://workspace.google.com/assets/BZ11Ya-X.css
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\BZ11Ya-X.css
+Content Type: text/css
+
+Uri: https://workspace.google.com/assets/C2H-21dc.css
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\C2H-21dc.css
+Content Type: text/css
+
+Uri: https://workspace.google.com/assets/CDO7jHn1.css
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\CDO7jHn1.css
+Content Type: text/css
+
+Uri: https://workspace.google.com/assets/CM7HFrw-.css
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\CM7HFrw-.css
+Content Type: text/css
+
+Uri: https://workspace.google.com/assets/DZ2-_i4W.css
+File Name: C:\Downloaded Web Sites\homigrad.com\assets\DZ2-_i4W.css
+Content Type: text/css
+
+Uri: https://workspace.google.com/blog/customer-stories/atlantic-housing-foundation
+File Name: C:\Downloaded Web Sites\homigrad.com\blog\customer-stories\atlantic-housing-foundation.html
+Content Type: text/html
+
+Uri: https://workspace.google.com/blog/customer-stories/how-webfx-uses-duet-ai
+File Name: C:\Downloaded Web Sites\homigrad.com\blog\customer-stories\how-webfx-uses-duet-ai.html
+Content Type: text/html
+
+Uri: https://workspace.google.com/blog/customer-stories/oxa-unlocks-collaboration-scale-google-workspace
+File Name: C:\Downloaded Web Sites\homigrad.com\blog\customer-stories\oxa-unlocks-collaboration-scale-google-workspace.html
+Content Type: text/html
+
+Uri: https://workspace.google.com/business/
+File Name: C:\Downloaded Web Sites\homigrad.com\business\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/business/new-business/
+File Name: C:\Downloaded Web Sites\homigrad.com\business\new-business\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/business/small-business/
+File Name: C:\Downloaded Web Sites\homigrad.com\business\small-business\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/business/startups/
+File Name: C:\Downloaded Web Sites\homigrad.com\business\startups\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/customers/
+File Name: C:\Downloaded Web Sites\homigrad.com\customers\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/departments/hr-collaboration-tools/
+File Name: C:\Downloaded Web Sites\homigrad.com\departments\hr-collaboration-tools\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/departments/marketing-collaboration-solutions/
+File Name: C:\Downloaded Web Sites\homigrad.com\departments\marketing-collaboration-solutions\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/departments/sales-collaboration-solutions/
+File Name: C:\Downloaded Web Sites\homigrad.com\departments\sales-collaboration-solutions\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/enterprise/
+File Name: C:\Downloaded Web Sites\homigrad.com\enterprise\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/enterprise/frontline-workers/
+File Name: C:\Downloaded Web Sites\homigrad.com\enterprise\frontline-workers\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/faq/
+File Name: C:\Downloaded Web Sites\homigrad.com\faq\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/features/
+File Name: C:\Downloaded Web Sites\homigrad.com\features\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/individual/
+File Name: C:\Downloaded Web Sites\homigrad.com\individual\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/industries/government/
+File Name: C:\Downloaded Web Sites\homigrad.com\industries\government\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/industries/healthcare/
+File Name: C:\Downloaded Web Sites\homigrad.com\industries\healthcare\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/industries/manufacturing/
+File Name: C:\Downloaded Web Sites\homigrad.com\industries\manufacturing\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/industries/professional-services/
+File Name: C:\Downloaded Web Sites\homigrad.com\industries\professional-services\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/industries/retail/
+File Name: C:\Downloaded Web Sites\homigrad.com\industries\retail\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/industries/technology/
+File Name: C:\Downloaded Web Sites\homigrad.com\industries\technology\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/integrations/
+File Name: C:\Downloaded Web Sites\homigrad.com\integrations\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ar/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ar\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ar_eg/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ar_eg\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/cs/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\cs\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/da/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\da\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/de/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\de\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/de_ch/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\de_ch\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_au/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_au\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_ca/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_ca\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_id/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_id\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_ie/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_ie\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_in/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_in\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_my/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_my\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_nz/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_nz\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_ph/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_ph\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_sg/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_sg\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_uk/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_uk\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/en_za/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\en_za\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/es-419/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\es-419\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/es-419_ar/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\es-419_ar\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/es-419_mx/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\es-419_mx\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/es-419_us/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\es-419_us\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/es/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\es\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/fi/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\fi\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/fr/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\fr\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/fr_ca/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\fr_ca\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/fr_ch/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\fr_ch\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/hu/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\hu\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/id/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\id\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/it/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\it\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/iw/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\iw\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ja/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ja\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ko/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ko\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/nl/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\nl\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/no/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\no\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/pl/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\pl\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/pt-BR/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\pt-BR\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/pt-PT/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\pt-PT\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ru/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ru\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ru/business/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ru\business\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ru/enterprise/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ru\enterprise\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ru/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ru\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ru/resources/esignature/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ru\resources\esignature\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/ru/solutions/ai/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\ru\solutions\ai\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/sv/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\sv\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/th/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\th\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/tr/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\tr\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/uk/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\uk\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/vi/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\vi\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/zh-CN/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\zh-CN\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/zh-HK/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\zh-HK\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/intl/zh-TW/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\intl\zh-TW\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/marketplace?hl=[locale]
+File Name: C:\Downloaded Web Sites\homigrad.com\marketplace.html
+Content Type: text/html
+
+Uri: https://workspace.google.com/pricing?source=gafb-[basename]-globalnav-ru&hl=ru
+File Name: C:\Downloaded Web Sites\homigrad.com\pricing.html
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/admin/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\admin\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/calendar/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\calendar\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/chat/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\chat\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/docs/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\docs\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/drive/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\drive\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/gmail/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\gmail\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/meet/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\meet\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/sheets/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\sheets\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/products/slides/
+File Name: C:\Downloaded Web Sites\homigrad.com\products\slides\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/referral-program/
+File Name: C:\Downloaded Web Sites\homigrad.com\referral-program\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/resources/
+File Name: C:\Downloaded Web Sites\homigrad.com\resources\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/resources/video-conferencing/
+File Name: C:\Downloaded Web Sites\homigrad.com\resources\video-conferencing\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/resources/working-remotely/
+File Name: C:\Downloaded Web Sites\homigrad.com\resources\working-remotely\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/security/
+File Name: C:\Downloaded Web Sites\homigrad.com\security\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/solutions/ai/
+File Name: C:\Downloaded Web Sites\homigrad.com\solutions\ai\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/static/favicon.ico?cache=4926369
+File Name: C:\Downloaded Web Sites\homigrad.com\static\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://workspace.google.com/support/
+File Name: C:\Downloaded Web Sites\homigrad.com\support\index.htm
+Content Type: text/html
+
+Uri: https://workspace.google.com/training/
+File Name: C:\Downloaded Web Sites\homigrad.com\training\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/nonprofits/?hl=[locale]
+File Name: C:\Downloaded Web Sites\homigrad.com\nonprofits\index.htm
+Content Type: text/html
+
+Uri: https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css
+File Name: C:\Downloaded Web Sites\homigrad.com\glue\cookienotificationbar\cookienotificationbar.min.css
+Content Type: text/css
+
+Uri: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/js/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.ru.f46nfTrXVYc.es5.O/am=SMRgwCw/d=1/excm=_b,_tp,itemdetailview/ed=1/dg=0/wt=2/ujg=1/rs=AEP720Lc-Vy66R7L789HZ-1gbRWKmBozvw/m=_b,_tp
+File Name: C:\Downloaded Web Sites\homigrad.com\_\mss\boq-chrome-webstore\_\js\k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.ru.f46nfTrXVYc.es5.O\am=SMRgwCw\d=1\excm=_b,_tp,itemdetailview\ed=1\dg=0\wt=2\ujg=1\rs=AEP720Lc-Vy66R7L789HZ-1gbRWKmBozvw\m=_b,_tp
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/
+File Name: C:\Downloaded Web Sites\homigrad.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/@homigrad
+File Name: C:\Downloaded Web Sites\homigrad.com\@homigrad.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/@homigrad?app=desktop
+File Name: C:\Downloaded Web Sites\homigrad.com\@homigrad-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/ads/
+File Name: C:\Downloaded Web Sites\homigrad.com\ads\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/channel/UCK6BdZdCvIk6I6YQzXd0iDA
+File Name: C:\Downloaded Web Sites\homigrad.com\channel\UCK6BdZdCvIk6I6YQzXd0iDA.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/creators/
+File Name: C:\Downloaded Web Sites\homigrad.com\creators\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/feeds/videos.xml?channel_id=UCK6BdZdCvIk6I6YQzXd0iDA
+File Name: C:\Downloaded Web Sites\homigrad.com\feeds\videos.xml
+Content Type: text/xml
+
+Uri: https://www.youtube.com/howyoutubeworks/?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https:%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen
+File Name: C:\Downloaded Web Sites\homigrad.com\howyoutubeworks\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+File Name: C:\Downloaded Web Sites\homigrad.com\howyoutubeworks\policies\community-guidelines\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/howyoutubeworks/policies/copyright/
+File Name: C:\Downloaded Web Sites\homigrad.com\howyoutubeworks\policies\copyright\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\homigrad.com\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.youtube.com/new
+File Name: C:\Downloaded Web Sites\homigrad.com\new.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/opensearch?locale=ru_RU
+File Name: C:\Downloaded Web Sites\homigrad.com\opensearch
+Content Type: application/opensearchdescription+xml
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/cssbin/www-main-desktop-watch-page-skeleton.css
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\cssbin\www-main-desktop-watch-page-skeleton.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/cssbin/www-onepick.css
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\cssbin\www-onepick.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon.ico
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\img\logos\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon_144x144.png
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\img\logos\favicon_144x144.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon_32x32.png
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\img\logos\favicon_32x32.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon_48x48.png
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\img\logos\favicon_48x48.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon_96x96.png
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\img\logos\favicon_96x96.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/desktop_polymer_legacy_browsers.vflset/desktop_polymer_legacy_browsers.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\desktop_polymer_legacy_browsers.vflset\desktop_polymer_legacy_browsers.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/fetch-polyfill.vflset/fetch-polyfill.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\fetch-polyfill.vflset\fetch-polyfill.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/intersection-observer.min.vflset/intersection-observer.min.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\intersection-observer.min.vflset\intersection-observer.min.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/network.vflset/network.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\network.vflset\network.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/scheduler.vflset/scheduler.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\scheduler.vflset\scheduler.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/spf.vflset/spf.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\spf.vflset\spf.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\web-animations-next-lite.min.vflset\web-animations-next-lite.min.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/webcomponents-all-noPatch.vflset/webcomponents-all-noPatch.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\webcomponents-all-noPatch.vflset\webcomponents-all-noPatch.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/www-i18n-constants-ru_RU.vflset/www-i18n-constants.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\www-i18n-constants-ru_RU.vflset\www-i18n-constants.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/desktop/ceaca137/jsbin/www-tampering.vflset/www-tampering.js
+File Name: C:\Downloaded Web Sites\homigrad.com\s\desktop\ceaca137\jsbin\www-tampering.vflset\www-tampering.js
+Content Type: text/javascript
+
+Uri: https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.gPk1__149EA.L.X.O/am=AACCBA/d=0/br=1/rs=AGKMywG4pIqF2R5zem0OVrZltNrAg4Pzzg
+File Name: C:\Downloaded Web Sites\homigrad.com\s\_\ytmainappweb\_\ss\k=ytmainappweb.kevlar_base.gPk1__149EA.L.X.O\am=AACCBA\d=0\br=1\rs=AGKMywG4pIqF2R5zem0OVrZltNrAg4Pzzg
+Content Type: text/css
+
+Uri: https://www.youtube.com/t/contact_us/
+File Name: C:\Downloaded Web Sites\homigrad.com\t\contact_us\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/t/terms
+File Name: C:\Downloaded Web Sites\homigrad.com\t\terms.html
+Content Type: text/html
+
+Uri: https://yt3.googleusercontent.com/PjcKnvDSybpsw4vbH99rin3nqq7ZV2SU6VXzGMbm9WAnuFyNygt67IE2-gna7jEA27srMG4hNg=s900-c-k-c0x00ffffff-no-rj
+File Name: C:\Downloaded Web Sites\homigrad.com\PjcKnvDSybpsw4vbH99rin3nqq7ZV2SU6VXzGMbm9WAnuFyNygt67IE2-gna7jEA27srMG4hNg=s900-c-k-c0x00ffffff-no-rj
+Content Type: image/jpeg
+
